@@ -1,7 +1,7 @@
 package com.example.security_jwt.controller;
 
 import com.example.security_jwt.entity.User;
-import com.example.security_jwt.service.UserServiceImpl;
+import com.example.security_jwt.service.impl.UserServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

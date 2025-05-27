@@ -1,7 +1,8 @@
-package com.example.security_jwt.service;
+package com.example.security_jwt.service.impl;
 
 import com.example.security_jwt.entity.User;
 import com.example.security_jwt.repository.UserRepository;
+import com.example.security_jwt.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
